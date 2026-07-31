@@ -29,18 +29,6 @@ A RESTful API built with **Node.js, Express.js, and MongoDB** for managing resta
 
 ---
 
-## Features
-
-* User Registration & Login
-* JWT Authentication
-* Protected API Routes
-* Waiter CRUD Operations
-* Order CRUD Operations
-* MongoDB Relationships using `populate()`
-* Centralized Error Handling
-
----
-
 ## API Endpoints
 
 ### Authentication
