@@ -116,19 +116,19 @@ Add your Postman screenshots inside a `screenshots` folder.
 * Get All Waiters
 ![All Waiter](./screenshots/6.png)
 * Update Waiter
-![Update Waiter](./screenshots/7.png)
+![Update Waiter](./screenshots/8.png)
 * Delete Waiter
-![delete waiter](./screenshots/8.png)
+![delete waiter](./screenshots/13.png)
 * Create Order
 ![create Order](./screenshots/9.png)
 * Get All Orders
 ![All Order](./screenshots/10.png)
 * Update Order
-![Update Order](./screenshots/10.png)
+![Update Order](./screenshots/11.png)
 * Delete Order
-![Delete Order](./screenshots/11.png)
+![Delete Order](./screenshots/12.png)
 * Unauthorized Request
-![Unauthorized Request](./screenshots/13.png)
+![Unauthorized Request](./screenshots/14.png)
 
 ---
 
