@@ -60,33 +60,6 @@ A RESTful API built with **Node.js, Express.js, and MongoDB** for managing resta
 
 All API endpoints were tested successfully using **Thunder Client**.
 
-### Authentication
-
-* Register User
-* Login User
-
-### Waiter APIs
-
-* Create Waiter
-* Get All Waiters
-* Get Waiter by ID
-* Update Waiter
-* Delete Waiter
-
-### Order APIs
-
-* Create Order
-* Get All Orders
-* Get Order by ID
-* Update Order
-* Delete Order
-
-### Authentication Tests
-
-* Valid JWT Token
-* Invalid Token
-* Missing Token
-
 ---
 
 ## Screenshots
