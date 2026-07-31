@@ -64,8 +64,6 @@ All API endpoints were tested successfully using **Thunder Client**.
 
 ## Screenshots
 
-Add your Postman screenshots inside a `screenshots` folder.
-
 * Server Running
 ![Server Running](./screenshots/1.png)
 * User Registration
@@ -95,4 +93,4 @@ Add your Postman screenshots inside a `screenshots` folder.
 
 ## Learning Outcomes
 
-This project strengthened my understanding of REST API development with Express.js, MongoDB using Mongoose, JWT authentication, middleware, CRUD operations, and API testing with Postman.
+This project strengthened my understanding of REST API development with Express.js, MongoDB using Mongoose, JWT authentication, middleware, CRUD operations, and API testing with Thunder Client.
